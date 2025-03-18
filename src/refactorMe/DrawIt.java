@@ -1,4 +1,4 @@
-package at.uibk.dbis.ss15.sheet9;
+package refactorMe;
 
 public class DrawIt {
 	public static void main(String[] args) throws IdException {
